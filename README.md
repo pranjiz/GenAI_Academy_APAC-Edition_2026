@@ -1,1 +1,1 @@
-# THE-ARCADE_Google-Cloud-2026
+# Gen AI Academy APAC Edition
